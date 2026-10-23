@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Kevin Castañeda</h1>
-<h3 align="center">Analista de Automatización | Desarrollador Full Stack | Integración de sistemas · Cloud · Chatbots</h3>
+<h3 align="center">Desarrollador Full Stack | Integración de sistemas · Cloud · Chatbots</h3>
 
 <p align="center">
 Automatizo procesos de negocio e integro sistemas: pipelines de datos en Azure, chatbots de WhatsApp, flujos en Power Automate y backends en Node.js.
